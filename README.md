@@ -9,7 +9,10 @@
    <li>
     Open in text editor.
    <li>
-    Insall truflle globally <a>https://www.trufflesuite.com/docs/truffle/getting-started/installation</a>
+    Insall truflle globally 
+    <a href = "https://www.trufflesuite.com/docs/truffle/getting-started/installation">
+     clickhere.
+    </a>
    <li>
     Run Truffle develop and test.
     
