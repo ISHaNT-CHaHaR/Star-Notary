@@ -10,7 +10,7 @@
     Open in text editor.
    <li>
     Insall truflle globally 
-    <a href = "https://www.trufflesuite.com/docs/truffle/getting-started/installation">
+    <a href = "https://www.trufflesuite.com/docs/truffle/getting-started/installation" target="blank">
      clickhere.
     </a>
    <li>
